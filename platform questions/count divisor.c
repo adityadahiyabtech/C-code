@@ -1,5 +1,5 @@
-//factorial
-//https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/
+//count divisor
+//https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/
 #include <stdio.h>
 
 int main(){
